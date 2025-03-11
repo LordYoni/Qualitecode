@@ -11,4 +11,5 @@ h1 {
   align-items: center;
   gap: 0.2rem;
   bottom: 0;
+  width: 100%;
 }
